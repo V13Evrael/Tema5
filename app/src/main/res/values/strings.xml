@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tema5</string>
+
+    <string name="toast">Crear Toast</string>
+    <string name="notif">Crear Notificación</string>
+
+    <string name="desplHor">Introduzca el desplazamiento horizontal</string>
+    <string name="despVer">Introduzca el desplzamiento vertical</string>
+    <string name="mensaje">Introduzca aquí el mensaje</string>
+
+    <string name="posEjeX">Posición Eje X (Horizontal)</string>
+    <string name="izq">Izquierda</string>
+    <string name="med">Medio</string>
+    <string name="der">Derecha</string>
+
+    <string name="posEjeY">Posición Eje Y (Vertical)</string>
+    <string name="arr">Arriba</string>
+    <string name="cen">Centro</string>
+    <string name="aba">Abajo</string>
+
+    <string name="mostrar">Mostrar</string>
+
+
+    <string name="titulo">Introduzca el título de la Notificación</string>
+    <string name="texto">Introduzca el texto de la Notificación</string>
+    <string name="segundos">Introduzca los segundos de espera</string>
+    <string name="btnEnviar">Enviar</string>
+
+
+</resources>
